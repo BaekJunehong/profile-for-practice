@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+  font-size: 200%;
+  color: #76BA99;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Gugi', cursive;
+  color: #395B64;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Gugi', cursive;
+  color: #395B64;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Gugi', cursive;
+  color: #A5C9CA;
+
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #FFB4B4 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #76BA99;
+  font-family: 'Gugi', cursive;
+  margin: 5px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #395B64;
+}
+
+.top-container {
+  background-color: #E7F6F2;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container {
+  margin: 100px 0 ;
+}
+
+.bottom-container {
+  background-color: #A5C9CA;
+  padding: 50px 0 20px;
+}
+
+.pro{
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.intro {
+  width: 38%;
+  margin: 0 auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.profile-picture {
+  width:300px;
+  margin-top: 50px;
+}
+
+.certificate-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.컴활_이미지{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.사조사_이미지{
+  width: 25%;
+  float: right;
+  margin-left: 30px
+}
+
+.adsp_이미지{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.컴활_korean {
+  clear: left;
+}
+
+.사조사_korean {
+  clear: right;
+}
+
+.adsp_korean {
+  clear: left;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.contact-message {
+  width: 45%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #76BA99;
+  background-image: -webkit-linear-gradient(top, #76BA99, #76BA99);
+  background-image: -moz-linear-gradient(top, #76BA99, #76BA99);
+  background-image: -ms-linear-gradient(top, #76BA99, #76BA99);
+  background-image: -o-linear-gradient(top, #76BA99, #76BA99);
+  background-image: linear-gradient(to bottom, #76BA99, #76BA99);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Gugi', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3e484f;
+  background-image: -webkit-linear-gradient(top, #3e484f, #445d6e);
+  background-image: -moz-linear-gradient(top, #3e484f, #445d6e);
+  background-image: -ms-linear-gradient(top, #3e484f, #445d6e);
+  background-image: -o-linear-gradient(top, #3e484f, #445d6e);
+  background-image: linear-gradient(to bottom, #3e484f, #445d6e);
+  text-decoration: none;
+}
